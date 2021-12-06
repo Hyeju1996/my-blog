@@ -7,7 +7,7 @@
           <span>{{ doc.title }}</span> <br /> </nuxtLink
         >> <span>{{ doc.description }}</span> <br />
         <span>{{ doc.createdAt }}</span> <br />
-        <img :src="doc.image - upload" :alt="doc.slug" />
+        <img :src="doc.image" :alt="doc.slug" />
       </li>
     </ul>
   </div>
