@@ -5,7 +5,10 @@ author: Hyeju Hong
 description: Using netlify cms
 date: 2021-12-05T18:48:47.808Z
 image-upload: images/uploads/fullstack.jpg
+upload-image: /upload/pexels-koolshooters-6976599.jpg
 ---
+# Hi 
 
-# This is the header
-This is where body goes!
+
+
+Hello world this is my blog.
