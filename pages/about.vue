@@ -17,4 +17,6 @@ export default {};
 .about img {
   width: 300px;
 }
+
+.background-color: #bd81f9;
 </style>
