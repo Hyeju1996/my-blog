@@ -18,5 +18,7 @@ export default {};
   width: 300px;
 }
 
-.background-color: #bd81f9;
+.body {
+  background-color: #bd81f9;
+}
 </style>
