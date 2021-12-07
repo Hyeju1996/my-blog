@@ -20,6 +20,6 @@ export default {
 <style scoped>
 .nuxt-content-container {
   background-color: gray;
-  border: 1px solid black;
+  border: 1px solid blue;
 }
 </style>
